@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# NewsPaperWebApp
+
+
+This project is a React web application that mimics the layout and design of a traditional newspaper. It includes a home screen with a list of articles and a detailed article view.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js installed on your machine
+- npm package manager
+
+### Installing
+
+1. Clone the repository:
+2. 
+   git clone https://github.com/HarithaYaragorla/NewsPaperWebApp.git
+
+2.Navigate into the project directory:
+
+cd newswebapp
+
+3.Install dependencies:
+
+npm install
+
+4.Start the development server:
+
+npm start 
+>>>>>>> 91d108285bb7d08da8486d84a5d8a196d754396f
