@@ -1,0 +1,10 @@
+.articles-list-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
